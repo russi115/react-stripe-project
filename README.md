@@ -1,3 +1,8 @@
+## Notes
+
+the project is running on a server on heroku (thanks, heroku-sama), you can go check it out.
+http://react-stripe-russi115.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
